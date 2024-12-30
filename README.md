@@ -1,3 +1,6 @@
+
+
+
 # ListasVb
 Proyecto que muestra el funcionamiento de las listas como colecciones 
 y de Combobox como contenedores de objetos.
@@ -25,6 +28,8 @@ versions of the project.
 Technical Details of the Project:
 Language: Visual Basic.NET
 Framework Version: 4.7.2
+
+![imagen](https://github.com/user-attachments/assets/b26708d3-13b0-4104-81e6-30396dc26809)
 
 Code of the Project:
 
